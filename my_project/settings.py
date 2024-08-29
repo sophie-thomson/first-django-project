@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-yq+u#iq60ttdnoz52=9nzun1cx9h(kgqqk824yq^ok-x2_l0js
 
 # Allows for the extended, yellow error messages to be displayed.
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 # Determines which host or server names the project can run on.
 ALLOWED_HOSTS = ['8000-sophiethoms-firstdjango-jj9okdbvt41.ws.codeinstitute-ide.net',
